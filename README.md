@@ -1,3 +1,2 @@
 # github1
-githubbasic
-avantika
+Employee Salary Calculation
