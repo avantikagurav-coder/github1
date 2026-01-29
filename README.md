@@ -1,2 +1,2 @@
-# github1
+# Project
 Employee Salary Calculation
