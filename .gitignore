@@ -1,0 +1,9 @@
+# Compiled files
+*.class
+
+# Libraries
+lib/
+
+# IDE files (optional but good)
+.idea/
+*.iml
